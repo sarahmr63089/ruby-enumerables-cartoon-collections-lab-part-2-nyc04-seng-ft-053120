@@ -22,3 +22,5 @@ def find_valid_calls(planeteer_calls)
 end
 
 planeteer_calls = ["hello", "sarah"]
+
+summon_captain_planet(planeteer_calls)
